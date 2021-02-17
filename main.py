@@ -1,12 +1,4 @@
-"""Python quick coding test.
 
-Using the best tools for the job (but without installing large obscure libraries), compare 2 DNA genotyping files.
-And calculate the % match between the two.(rsid,genotype)
-
-Example files are available at: https://my.pgp-hms.org/public_genetic_data?data_type=23andMe
-
-Share the python or jupyter notebook file.
-"""
 
 ## It looked like a pandas problem to me :)
 ## I found this english a little unclear "And calculate the % match between the two.(rsid,genotype)"
