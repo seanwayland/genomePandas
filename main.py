@@ -1,7 +1,7 @@
 
 
 ## It looked like a pandas problem to me :)
-## I found this english a little unclear "And calculate the % match between the two.(rsid,genotype)"
+## I found this english a little unclear "And calculate match"
 ## I figured the percentage would be "different" depending on which was used a reference so I gave both
 ## beyond a "ten minute" solution I would I strip the text from the input files of have the files as arguments
 ## I stripped the text at the top of the tab delimited files by hand
